@@ -1,0 +1,11 @@
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Domain\bin\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Domain.deps.json
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Domain\bin\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Domain.dll
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Domain\bin\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Domain.pdb
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Domain\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Domain\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Domain.AssemblyInfoInputs.cache
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Domain\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Domain.AssemblyInfo.cs
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Domain\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Domain.csproj.CoreCompileInputs.cache
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Domain\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Domain.dll
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Domain\obj\Debug\net8.0\refint\RTE.GestaoUnidadesColaboradores.Domain.dll
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Domain\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Domain.pdb
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Domain\obj\Debug\net8.0\ref\RTE.GestaoUnidadesColaboradores.Domain.dll

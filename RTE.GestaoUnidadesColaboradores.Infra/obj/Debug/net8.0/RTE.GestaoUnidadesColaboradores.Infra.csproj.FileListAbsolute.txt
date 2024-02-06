@@ -1,0 +1,17 @@
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Infra\bin\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Infra.deps.json
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Infra\bin\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Infra.runtimeconfig.json
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Infra\bin\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Infra.dll
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Infra\bin\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Infra.pdb
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Infra\bin\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Domain.dll
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Infra\bin\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Domain.pdb
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Infra\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Infra.csproj.AssemblyReference.cache
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Infra\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Infra\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Infra.AssemblyInfoInputs.cache
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Infra\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Infra.AssemblyInfo.cs
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Infra\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Infra.csproj.CoreCompileInputs.cache
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Infra\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Infra.csproj.CopyComplete
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Infra\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Infra.dll
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Infra\obj\Debug\net8.0\refint\RTE.GestaoUnidadesColaboradores.Infra.dll
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Infra\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Infra.pdb
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Infra\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Infra.genruntimeconfig.cache
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Infra\obj\Debug\net8.0\ref\RTE.GestaoUnidadesColaboradores.Infra.dll

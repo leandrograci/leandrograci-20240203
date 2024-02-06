@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RTE.GestaoUnidadesColaboradores.Web.props" />
+</Project>

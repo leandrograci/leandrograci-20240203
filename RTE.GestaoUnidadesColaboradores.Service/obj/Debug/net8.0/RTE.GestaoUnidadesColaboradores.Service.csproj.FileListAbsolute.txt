@@ -1,0 +1,17 @@
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Service\bin\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Service.deps.json
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Service\bin\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Service.dll
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Service\bin\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Service.pdb
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Service\bin\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Domain.dll
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Service\bin\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Infra.dll
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Service\bin\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Domain.pdb
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Service\bin\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Infra.pdb
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Service\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Service.csproj.AssemblyReference.cache
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Service\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Service\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Service.AssemblyInfoInputs.cache
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Service\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Service.AssemblyInfo.cs
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Service\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Service.csproj.CoreCompileInputs.cache
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Service\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Service.csproj.CopyComplete
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Service\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Service.dll
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Service\obj\Debug\net8.0\refint\RTE.GestaoUnidadesColaboradores.Service.dll
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Service\obj\Debug\net8.0\RTE.GestaoUnidadesColaboradores.Service.pdb
+C:\Leandro\RTE.GestaoUnidadesColaboradores.Service\obj\Debug\net8.0\ref\RTE.GestaoUnidadesColaboradores.Service.dll

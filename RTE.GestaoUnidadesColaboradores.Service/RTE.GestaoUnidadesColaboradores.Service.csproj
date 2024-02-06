@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RTE.GestaoUnidadesColaboradores.Domain\RTE.GestaoUnidadesColaboradores.Domain.csproj" />
+    <ProjectReference Include="..\RTE.GestaoUnidadesColaboradores.Infra\RTE.GestaoUnidadesColaboradores.Infra.csproj" />
+  </ItemGroup>
+
+</Project>
